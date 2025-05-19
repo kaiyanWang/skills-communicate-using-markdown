@@ -11,6 +11,13 @@ var myVar = "Hello, world!";
 ```
 ### This is an `<h3>` header
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+      
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 #### This is an `<h4>` header
 
 ##### This is an `<h5>` header
